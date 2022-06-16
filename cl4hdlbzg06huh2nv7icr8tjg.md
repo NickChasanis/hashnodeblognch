@@ -47,7 +47,7 @@ You need to have a clue of your team's pace even if the accuracy is limited, wha
 
 While having a glimpse of what a 5 is in terms of complexity, you'll probably have to readjust it every now and then because you guessed it, the people factor, you're dealing with people, act like it and they'll thank you for it.  
 
-> I'd like to thank the **Estimation Police of Luxembourg** for this teqnique.
+> I'd like to thank the **Estimation Police of Luxembourg** for this technique.
 
 **Well i dont agree with this Opinion section: **
 
