@@ -54,3 +54,9 @@ While having a glimpse of what a 5 is in terms of complexity, you'll probably ha
 ![297.webp](https://cdn.hashnode.com/res/hashnode/image/upload/v1654720740929/tOwPT43EK.webp align="left")
 At this point some will disagree with this, they are the same ones that believe that you can define a clear scope and ignore the people factor because Marketing said so, 
 (At the expense of mental health and worklife balance maybe) they might even see unicorns and fairies in the woods, that wont help their deadlines, being realistic will.
+
+### Thanks for Reading. 
+-  **Contact me on Twitter: **
+https://twitter.com/ChasanisNickos
+-  **Or Follow my Newsletter: **
+https://www.getrevue.co/profile/chasanisnickos
