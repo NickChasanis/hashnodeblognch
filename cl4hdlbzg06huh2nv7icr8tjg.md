@@ -70,4 +70,4 @@ At this point some will disagree with this, they are the same ones that believe 
 
 ### Thanks for Reading.
 
-* \*\*Contact me on Twitter: \*\* https://twitter.com/ChasanisNickos
+* Contact me on Twitter: \*\* https://twitter.com/ChasanisNickos
