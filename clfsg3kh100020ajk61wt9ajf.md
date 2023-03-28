@@ -31,7 +31,7 @@ What are the odds?
     
 * Introduction latency (It starts from a new tool to languages to new people in a team, everything new will need an adjustment/integration period, your manager doesn't think so, and that's why it might cost the team down the line.)
     
-* Uknown factors (It would be proper to add 5% of your time just in case, or your 8-hour workweek won't stay at 8 hours)
+* Unknown factors (It would be proper to add 5% of your time just in case, or your 8-hour workweek won't stay 8 hours for long)
     
 
 I'm certain that many people claim to know how to conduct their business effectively but those odds above are no small thing, accidents, by definition miss intent, for when they happen they're not intentional by the one that is taking part or have complete ownership of the accidents, think of it like when your phone falls and breaks down and you have all those information in it, there is not a single chance that you expected for it to happen, and yet it was out of your power, and it happened, that's how most estimations work when you are unaware of multiple odds, that's why experience matters a lot, the definition of [APM](https://www.arealme.com/apm-actions-per-minute-test/en/) (Actions per minute) is essentially the same thing, the second time you take the test your results will be elevated by more than 35% in comparison to the first time because now you'd be more experienced on the process, Software estimation is also like that.
