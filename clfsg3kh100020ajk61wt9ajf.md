@@ -43,5 +43,3 @@ So how do you calculate the A.F.S.T, some of the techniques are mentioned in my 
 ### **Thanks for Reading.**
 
 * **Contact me on Twitter:** [**twitter.com/ChasanisNickos**](http://twitter.com/ChasanisNickos)
-    
-* **Or Follow my Newsletter:** [**getrevue.co/profile/chasanisnickos**](http://getrevue.co/profile/chasanisnickos)
