@@ -46,6 +46,8 @@ I think that it is to a certain extent, but it would be even better if we could 
 
 ### *Measure with clicks today, and then tell me, do you have to do that extra Click?*
 
+### Let me know in the comments!
+
 ### Thanks for Reading.
 
 * Contact me on [Twitter](https://twitter.com/ChasanisNickos)
