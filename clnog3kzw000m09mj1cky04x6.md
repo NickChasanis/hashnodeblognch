@@ -14,7 +14,7 @@ What would you consider the best architecture for a demanding scalable and yet h
 
 Whatever your answer might be, it's wrong.
 
-By thinking in that particular way whomever your choice might be it will be knowingly a flawed choice, you can keep questioning and refactoring and probably avoid the Ouroboros effect in that respect.
+By thinking in that particular way whichever your choice might be it will be knowingly a flawed choice, you can keep questioning and refactoring and probably avoid the Ouroboros effect in that respect.
 
 By definition, there is no right or wrong choice, and there are literally millions of lines of code out there if not more, that just works, and nobody dares to question them unless they have to, but when the refactoring day comes, then you'll have to choose.
 
