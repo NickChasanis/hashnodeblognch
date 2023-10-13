@@ -14,7 +14,7 @@ What would you consider the best architecture for a demanding scalable and yet h
 
 Whatever your answer might be, it's wrong.
 
-By thinking that particular way whatever you choose is the wrong choice, you can keep questioning and refactoring and probably avoid the Ouroboros effect.
+By thinking in that particular way whomever your choice might be it will be knowingly a flawed choice, you can keep questioning and refactoring and probably avoid the Ouroboros effect in that respect.
 
 By definition, there is no right or wrong choice, and there are literally millions of lines of code out there if not more, that just works, and nobody dares to question them unless they have to, but when the refactoring day comes, then you'll have to choose.
 
@@ -42,7 +42,7 @@ The best thing would be to increase spending, exactly because you have to cut co
 
 So what now?  
 What do you do after the Ouroboros is in full swing and it goes faster than the rpm in your hard drive?  
-Fast migration of the core product to the most inexpensive solution available, code freeze the rest, you're at war now.  
+Fast migration of the core product to the most inexpensive solution available, code freeze the rest, you're at war now.
 
 ![](https://media.giphy.com/media/LzAnMDFPbiP46tFsJe/giphy.gif align="center")
 
